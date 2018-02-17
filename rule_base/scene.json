@@ -1,0 +1,60 @@
+{
+    "1": {
+        "motion": "",
+        "location": [
+            400,
+            653,
+            1662
+        ],
+        "object": [
+            "ペンギン"
+        ],
+        "confidence": [
+            100.0
+        ]
+    },
+    "2": {
+        "motion": "",
+        "location": [
+            780,
+            669,
+            1389
+        ],
+        "object": [
+            "ピカチュウ"
+        ],
+        "confidence": [
+            100.0
+        ]
+    },
+    "3": {
+        "motion": "",
+        "location": [
+            1075,
+            635,
+            687
+        ],
+        "object": [
+            "箱"
+        ],
+        "confidence": [
+            100.0
+        ]
+    },
+    "K1_SkHead_X": 490.251465,
+    "K1_SkHead_Y": 344.358154,
+    "K1_SkLeftElbow_X": 480.78714,
+    "K1_SkLeftElbow_Y": 354.694061,
+    "K1_SkLeftHand_X": 491.327484,
+    "K1_SkLeftHand_Y": 289.456848,
+    "K1_SkLeftShoulder_X": 502.950409,
+    "K1_SkLeftShoulder_Y": 379.074982,
+    "K1_SkNeck_X": 484.465637,
+    "K1_SkNeck_Y": 375.628571,
+    "K1_SkRightElbow_X": 469.778809,
+    "K1_SkRightElbow_Y": 350.777527,
+    "K1_SkRightHand_X": 483.993164,
+    "K1_SkRightHand_Y": 298.667969,
+    "K1_SkRightShoulder_X": 500.319763,
+    "K1_SkRightShoulder_Y": 388.515015
+}
